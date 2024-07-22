@@ -11,7 +11,7 @@
 	<groupId>com.crud</groupId>
 	<artifactId>Tondeuse</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Tondeuse</name>
+	<name>tondeuse</name>
 	<description>project for api Spring Boot</description>
 	<url/>
 	<licenses>
