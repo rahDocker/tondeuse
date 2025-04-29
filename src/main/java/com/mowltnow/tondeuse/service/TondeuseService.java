@@ -18,7 +18,10 @@ public class TondeuseService {
         char currentOrientation = currentPosition.getOrientation();
 
         for (char instruction : tondeuse.getInstruction().toCharArray()) {
+
+
             switch (instruction) {
+
                 case 'G':
                     currentOrientation = goLeft(currentOrientation); 
                     break;
